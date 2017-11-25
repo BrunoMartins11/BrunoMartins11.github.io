@@ -3,6 +3,9 @@ layout: archive
 title: "Interests"
 permalink: /about/
 author_profile: true
+redirect_from:
+  - /about/
+  - /about.html
 ---
 
 {% if author.googlescholar %}
