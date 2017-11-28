@@ -1,10 +1,7 @@
-permalink: /
-title: ""
-excerpt: "About me"
+layout: archive
+title: "COMPUTER SKILSS"
+permalink: /computer/
 author_profile: true
-redirect_from:
-  - /computer/
-  - /about.html
 
 *Imperative Programming
 *Functional Programming
