@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Interests"
-permalink: /about me/
+permalink: /about%20me/
 author_profile: true
 
 ---
