@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 
-*Imperative Programming
-*Functional Programming
-*Linux
-*Debugging
+* Imperative Programming
+* Functional Programming
+* Linux
+* Debugging
