@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "COMPUTER SKILSS"
+title: "COMPUTER SKILS"
 permalink: /computer/
 author_profile: true
 
